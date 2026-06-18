@@ -3,89 +3,109 @@
     Data Type: str
     Missing Values: 0
     Unique Values: 510
+    First value:
+    CybergyHoldingsInc_20140520_10-Q_EX-10.27_86057...
     Sample Values: 
-    SUNTRONCORP_05_17_2006-EX-10.22-MAINTENANCE AGR...
-KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES...
+    PhotronicsInc_20171219_10-QA_EX-10.28_10982650_...
+CANOPETROLEUM,INC_12_13_2007-EX-10.1-Sponsorshi...
         
 
     ****** Document Name ******
     Data Type: str
     Missing Values: 0
     Unique Values: 274
+    First value:
+    ['MARKETING AFFILIATE AGREEMENT']
     Sample Values: 
-    ['INTELLECTUAL PROPERTY RIGHTS AGREEMENT']
-               ['Collaboration Agreement']
+     ['e-business Hosting Agreement']
+['MARKETING AFFILIATE AGREEMENT']
         
 
     ****** Document Name-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 285
+    First value:
+    MARKETING AFFILIATE AGREEMENT
     Sample Values: 
-      AGENTS’ CERTIFICATE
-Sponsorship Agreement
+    JOINT DEVELOPMENT AND MARKETING AGREEMENT
+             STRATEGIC ALLIANCE AGREEMENT
         
 
     ****** Parties ******
     Data Type: str
     Missing Values: 0
     Unique Values: 502
+    First value:
+    ['BIRCH FIRST GLOBAL INVESTMENTS INC.', 'MA', '...
     Sample Values: 
-    ['Alan Crane', 'Immunotolerance, Inc.', 'Compan...
-['Inktomi', 'Microsoft', 'MICROSOFT CORPORATION...
+    ['YOU ON DEMAND HOLDINGS, INC.', 'Licensor', 'L...
+['Bank of America', 'Bank of America, N. A', 'C...
         
 
     ****** Parties-Answer ******
     Data Type: str
     Missing Values: 1
     Unique Values: 499
+    First value:
+    Birch First Global Investments Inc. ("Company")...
     Sample Values: 
-    Geno Auriemma (Auriemma); Berkshire Bank (Berks...
-HEMISPHERX BIOPHARMA, INC ("HEMISPHERX"); Scien...
+    Web site owners (hereafter, "Affiliates"); Soft...
+Newegg Inc. ("Newegg"); Allied Esports Internat...
         
 
     ****** Agreement Date ******
     Data Type: str
     Missing Values: 0
     Unique Values: 462
+    First value:
+    ['8th day of May 2014', 'May 8, 2014']
     Sample Values: 
-    ['18t h day of August 2014']
-            ['May 22, 2000']
+    ['_____ day of ________, 19____']
+            ['February 18, 1999']
         
 
     ****** Agreement Date-Answer ******
     Data Type: str
     Missing Values: 45
     Unique Values: 424
+    First value:
+    5/8/14
     Sample Values: 
-     4/2/20
-8/26/14
+    1/14/02
+3/31/98
         
 
     ****** Effective Date ******
     Data Type: str
     Missing Values: 0
     Unique Values: 382
+    First value:
+    ['This agreement shall begin upon the date of i...
     Sample Values: 
-    ['October 30, 2018']
-    ['May 18, 2010']
+    []
+[]
         
 
     ****** Effective Date-Answer ******
     Data Type: str
     Missing Values: 151
     Unique Values: 328
+    First value:
+    NaN
     Sample Values: 
-     1/1/13
-5/19/10
+    12/16/04
+ 3/31/98
         
 
     ****** Expiration Date ******
     Data Type: str
     Missing Values: 0
     Unique Values: 411
+    First value:
+    ['This agreement shall begin upon the date of i...
     Sample Values: 
-    ['This Agreement shall continue in effect for a...
+    ['Unless terminated sooner, the term of this Ag...
                                                 []
         
 
@@ -93,33 +113,41 @@ HEMISPHERX BIOPHARMA, INC ("HEMISPHERX"); Scien...
     Data Type: str
     Missing Values: 181
     Unique Values: 249
+    First value:
+    12/31/14
     Sample Values: 
-    3/18/15
-6/15/19
+    12/8/07
+7/31/13
         
 
     ****** Renewal Term ******
     Data Type: str
     Missing Values: 0
     Unique Values: 175
+    First value:
+    ['This agreement shall begin upon the date of i...
     Sample Values: 
-    []
-[]
+    ['Thereafter, this Agreement shall be renewed a...
+['This Agreement shall      renew for successiv...
         
 
     ****** Renewal Term-Answer ******
     Data Type: str
     Missing Values: 347
     Unique Values: 45
+    First value:
+    successive 1 year
     Sample Values: 
-    successive 5 years
-successive 1 month
+    successive 1 year
+          2 years
         
 
     ****** Notice Period To Terminate Renewal ******
     Data Type: str
     Missing Values: 0
     Unique Values: 110
+    First value:
+    ['This Agreement may be terminated by either pa...
     Sample Values: 
     []
 []
@@ -129,33 +157,41 @@ successive 1 month
     Data Type: str
     Missing Values: 409
     Unique Values: 21
+    First value:
+    30 days
     Sample Values: 
-     30 days
-6 months
+    60 days
+90 days
         
 
     ****** Governing Law ******
     Data Type: str
     Missing Values: 0
     Unique Values: 431
+    First value:
+    ['This Agreement is accepted by Company in the ...
     Sample Values: 
-    ['This Agreement shall be governed by and inter...
-                                                []
+    ['This Agreement will be governed by and interp...
+['This Agreement shall be governed and construe...
         
 
     ****** Governing Law-Answer ******
     Data Type: str
     Missing Values: 76
     Unique Values: 77
+    First value:
+    Nevada
     Sample Values: 
-    Wisconsin
-    Texas
+    South Dakota
+    Delaware
         
 
     ****** Most Favored Nation ******
     Data Type: str
     Missing Values: 0
     Unique Values: 29
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -165,6 +201,8 @@ successive 1 month
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -174,33 +212,41 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 77
-    Sample Values: 
+    First value:
     []
-[]
+    Sample Values: 
+    ['Except as set forth in Articles 7.1, 7.2, 8.1...
+                                                []
         
 
     ****** Competitive Restriction Exception-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
-    Yes
- No
+    No
+No
         
 
     ****** Non-Compete ******
     Data Type: str
     Missing Values: 0
     Unique Values: 120
+    First value:
+    []
     Sample Values: 
-                                                    []
-['MKOS will not seek to acquire any technologie...
+    []
+[]
         
 
     ****** Non-Compete-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     Yes
  No
@@ -210,33 +256,41 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 181
+    First value:
+    []
     Sample Values: 
-                                                    []
-['Kitov hereby grants to Dexcel a fully paid, l...
+    []
+[]
         
 
     ****** Exclusivity-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     Yes
- No
+Yes
         
 
     ****** No-Solicit Of Customers ******
     Data Type: str
     Missing Values: 0
     Unique Values: 35
+    First value:
+    []
     Sample Values: 
-                                                    []
-['Unless otherwise instructed by Sonos in writi...
+    []
+[]
         
 
     ****** No-Solicit Of Customers-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -246,6 +300,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 59
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -255,6 +311,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
      No
 Yes
@@ -264,6 +322,8 @@ Yes
     Data Type: str
     Missing Values: 0
     Unique Values: 38
+    First value:
+    ['Company shall not specify the business practi...
     Sample Values: 
     []
 []
@@ -273,42 +333,52 @@ Yes
     Data Type: str
     Missing Values: 0
     Unique Values: 2
-    Sample Values: 
+    First value:
     Yes
- No
+    Sample Values: 
+    No
+No
         
 
     ****** Termination For Convenience ******
     Data Type: str
     Missing Values: 0
     Unique Values: 182
+    First value:
+    []
     Sample Values: 
-    ['At any time during a renewed term, this Agree...
-                                                []
+    []
+[]
         
 
     ****** Termination For Convenience-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
-    Yes
-Yes
+    No
+No
         
 
     ****** Rofr/Rofo/Rofn ******
     Data Type: str
     Missing Values: 0
     Unique Values: 86
-    Sample Values: 
+    First value:
     []
-[]
+    Sample Values: 
+    ['Following the License Option Exercise Closing...
+                                                []
         
 
     ****** Rofr/Rofo/Rofn-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -318,33 +388,41 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 122
-    Sample Values: 
+    First value:
     []
-[]
+    Sample Values: 
+                                                    []
+['An Event of Default shall mean any of the fol...
         
 
     ****** Change Of Control-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
-    Sample Values: 
+    First value:
     No
-No
+    Sample Values: 
+     No
+Yes
         
 
     ****** Anti-Assignment ******
     Data Type: str
     Missing Values: 0
     Unique Values: 371
+    First value:
+    ['MA may not assign, sell, lease or otherwise t...
     Sample Values: 
-    ["Except with Smith's prior written approval, t...
-['AbbVie may use one (1) or more of its Affilia...
+    ["The Customer shall not assign or transfer its...
+['This Agreement is not assignable or transfera...
         
 
     ****** Anti-Assignment-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    Yes
     Sample Values: 
     Yes
 Yes
@@ -354,24 +432,30 @@ Yes
     Data Type: str
     Missing Values: 0
     Unique Values: 167
-    Sample Values: 
+    First value:
     []
-[]
+    Sample Values: 
+    ['Repayment shall be through reduction of commi...
+                                                []
         
 
     ****** Revenue/Profit Sharing-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
-    Yes
-Yes
+    No
+No
         
 
     ****** Price Restrictions ******
     Data Type: str
     Missing Values: 0
     Unique Values: 16
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -381,6 +465,8 @@ Yes
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -390,33 +476,41 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 166
+    First value:
+    ['INITIAL ORDER COMMITMENT - MA commits to purc...
     Sample Values: 
-    []
-[]
+                                   []
+['*Minimum order of 1,000 Units']
         
 
     ****** Minimum Commitment-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
-    Sample Values: 
+    First value:
     Yes
-Yes
+    Sample Values: 
+    No
+No
         
 
     ****** Volume Restriction ******
     Data Type: str
     Missing Values: 0
     Unique Values: 83
+    First value:
+    []
     Sample Values: 
-    ["At any given time during this Agreement, Scho...
-["Nantz agrees to be available      for up to f...
+                                                    []
+["The supplier will provide no more than two ma...
         
 
     ****** Volume Restriction-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -426,6 +520,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 124
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -435,15 +531,19 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     Yes
-Yes
+ No
         
 
     ****** Joint Ip Ownership ******
     Data Type: str
     Missing Values: 0
     Unique Values: 47
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -453,6 +553,8 @@ Yes
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -462,24 +564,30 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 255
+    First value:
+    ['Company hereby grants MA, during the term of ...
     Sample Values: 
-    ["iBio hereby grants to CC-Pharming for the ter...
-['FMM grants to iVillage, during the Initial Te...
+    ['MediWound hereby grants to Vericel an exclusi...
+['Except as  may be otherwise specified in its ...
         
 
     ****** License Grant-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    Yes
     Sample Values: 
-    No
-No
+    Yes
+ No
         
 
     ****** Non-Transferable License ******
     Data Type: str
     Missing Values: 0
     Unique Values: 136
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -489,15 +597,19 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 2
-    Sample Values: 
+    First value:
     No
-No
+    Sample Values: 
+    Yes
+ No
         
 
     ****** Affiliate License-Licensor ******
     Data Type: str
     Missing Values: 0
     Unique Values: 24
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -507,6 +619,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -516,6 +630,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 59
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -525,6 +641,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -534,6 +652,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 18
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -543,6 +663,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -552,15 +674,19 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 70
+    First value:
+    []
     Sample Values: 
     ['Unless otherwise agreed in an Order, Supplier...
-                                                []
+['Subject to the terms and conditions of this A...
         
 
     ****** Irrevocable Or Perpetual License-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -570,6 +696,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 14
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -579,6 +707,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -588,15 +718,19 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 183
+    First value:
+    []
     Sample Values: 
-                                                    []
-['Upon termination (but not expiration) of this...
+    []
+[]
         
 
     ****** Post-Termination Services-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     Yes
  No
@@ -606,60 +740,74 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 215
+    First value:
+    ['MA shall keep accurate records of the sales o...
     Sample Values: 
-    ['Such audit shall occur once per year  during ...
-["Kallo shall permit Agent or its  designated A...
+    ['PB shall (a) provide SFJ with quarterly unaud...
+                                                []
         
 
     ****** Audit Rights-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    Yes
     Sample Values: 
-    No
-No
+     No
+Yes
         
 
     ****** Uncapped Liability ******
     Data Type: str
     Missing Values: 0
     Unique Values: 111
+    First value:
+    []
     Sample Values: 
-                                                    []
-["THE PARTIES ACKNOWLEDGE AND AGREE THAT NOTHIN...
+    []
+[]
         
 
     ****** Uncapped Liability-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
-     No
-Yes
+    No
+No
         
 
     ****** Cap On Liability ******
     Data Type: str
     Missing Values: 0
     Unique Values: 275
+    First value:
+    ['The foregoing states the entire liability of ...
     Sample Values: 
-                                                    []
-["In no event (including, but not limited to, M...
+    ['EXCEPT IN THE EVENT OF A CLAIM UNDER SECTION ...
+['NEITHER PARTY SHALL BE LIABLE FOR ANY SPECIAL...
         
 
     ****** Cap On Liability-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    Yes
     Sample Values: 
-    No
-No
+    Yes
+ No
         
 
     ****** Liquidated Damages ******
     Data Type: str
     Missing Values: 0
     Unique Values: 62
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -669,6 +817,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -678,6 +828,8 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 76
+    First value:
+    ["COMPANY'S SOLE AND EXCLUSIVE LIABILITY FOR TH...
     Sample Values: 
     []
 []
@@ -687,15 +839,19 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    Yes
     Sample Values: 
-     No
-Yes
+    No
+No
         
 
     ****** Insurance ******
     Data Type: str
     Missing Values: 0
     Unique Values: 167
+    First value:
+    []
     Sample Values: 
     []
 []
@@ -705,6 +861,8 @@ Yes
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -714,33 +872,41 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 101
-    Sample Values: 
+    First value:
     []
-[]
+    Sample Values: 
+    ['Otis and Carrier, on behalf of themselves and...
+                                                []
         
 
     ****** Covenant Not To Sue-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
-     No
-Yes
+    No
+No
         
 
     ****** Third Party Beneficiary ******
     Data Type: str
     Missing Values: 0
     Unique Values: 33
-    Sample Values: 
+    First value:
     []
-[]
+    Sample Values: 
+    ['The Owner Trustee and the Indenture Trustee, ...
+                                                []
         
 
     ****** Third Party Beneficiary-Answer ******
     Data Type: str
     Missing Values: 0
     Unique Values: 2
+    First value:
+    No
     Sample Values: 
     No
 No
@@ -750,7 +916,9 @@ No
     Data Type: str
     Missing Values: 0
     Unique Values: 509
+    First value:
+    Exhibit 10.27\n\nMARKETING AFFILIATE AGREEMENT\...
     Sample Values: 
-    1\n\n                                          ...
-Exhibit 10.7 CONSULTING AGREEMENT THIS AGREEMEN...
+    EXHIBIT 10.17\n\n                        TRANSP...
+SERVICES AGREEMENT CONQUER RISK MANAGED VOLATIL...
         
