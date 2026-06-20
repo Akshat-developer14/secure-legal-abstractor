@@ -10,4 +10,6 @@ dependencies = [
     "jupyter>=1.1.1",
     "ollama>=0.6.2",
     "pandas>=3.0.3",
+    "rank-bm25>=0.2.2",
+    "tiktoken>=0.13.0",
 ]
